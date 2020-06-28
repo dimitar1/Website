@@ -1,0 +1,17 @@
+img{
+	width: 500px;
+	height: 350px;
+}
+.info{
+	width: 500px;
+	text-align: center;
+	display: inline-block;
+	margin-left: 9%;
+	margin-top: 25px;
+
+}
+#bg{
+	background-color: orange;		
+}
+
+
