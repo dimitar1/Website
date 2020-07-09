@@ -1,0 +1,38 @@
+footer{
+	background-color: blue;
+	
+}
+#subscribe{
+	text-align: center;
+	margin: 10px;
+
+}
+h1{
+	text-align: center;
+	margin: 20px;
+}
+.carp{
+	
+	width: 97%;
+	margin:19px;
+}
+
+p{
+	padding: 2%;
+}
+.bckg{
+	background-color: #42b9f4;
+}
+#carouselExampleCaptions {
+	width: 90%
+	text-align:center;
+
+}
+.carousel-item{
+	text-align: center;
+	width:750px;
+	height: 450px;
+}
+.dropdown{
+	text-align: center;
+}
